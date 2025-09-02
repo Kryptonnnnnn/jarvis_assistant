@@ -1,0 +1,22 @@
+{
+  "greetings": {
+    "patterns": ["hello", "hi", "hey", "good morning", "good evening"],
+    "responses": ["Hello! How can I assist you?", "Hi there! What can I do for you?"]
+  },
+  "system_info": {
+    "patterns": ["system info", "computer info", "pc status", "system status"],
+    "action": "get_system_info"
+  },
+  "open_application": {
+    "patterns": ["open *", "launch *", "start *"],
+    "action": "open_application"
+  },
+  "time": {
+    "patterns": ["what time", "current time", "time now"],
+    "action": "get_time"
+  },
+  "joke": {
+    "patterns": ["tell me a joke", "joke", "funny"],
+    "action": "tell_joke"
+  }
+}

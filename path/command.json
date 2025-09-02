@@ -1,0 +1,14 @@
+{
+  "greet": {
+    "keywords": ["hello", "hi", "hey"],
+    "response": "Hello, I am Jarvis. How can I help you today?"
+  },
+  "weather": {
+    "keywords": ["weather", "temperature", "forecast"],
+    "response": "Fetching weather information..."
+  },
+  "time": {
+    "keywords": ["time", "clock", "hour"],
+    "response": "The current time is being fetched..."
+  }
+}

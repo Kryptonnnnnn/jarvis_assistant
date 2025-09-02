@@ -1,0 +1,19 @@
+2025-09-02 15:22:17,741 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-02 15:22:19,046 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ankur\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-02 15:22:19,046 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ankur\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-02 15:27:55,198 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-02 15:27:56,463 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ankur\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-02 15:27:56,464 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ankur\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-02 16:36:31,881 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-02 16:36:33,167 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ankur\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-02 16:36:33,168 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ankur\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-02 16:36:33,267 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-02 16:36:40,860 - JARVIS - INFO - JARVIS started successfully
+2025-09-02 16:39:05,525 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-02 16:44:01,529 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-02 16:44:03,807 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ankur\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-02 16:44:03,807 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ankur\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-02 16:44:03,919 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-02 16:44:10,715 - JARVIS - INFO - JARVIS started successfully
+2025-09-02 16:44:23,921 - JARVIS - INFO - Wake word detected: jarvis in 'jarvis'
+2025-09-02 16:47:18,535 - JARVIS - INFO - JARVIS shutdown completed

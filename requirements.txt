@@ -1,0 +1,14 @@
+speechrecognition
+pyttsx3
+openai
+requests
+pyaudio
+pywhatkit
+wikipedia
+psutil
+pycaw
+screen-brightness-control
+pyautogui
+nltk
+fuzzywuzzy
+python-levenshtein
