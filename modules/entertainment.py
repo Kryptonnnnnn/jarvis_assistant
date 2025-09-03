@@ -56,7 +56,7 @@ class Entertainment:
 
 # config/api_keys.py (Create this file)
 # Add your API keys here (optional)
-OPENAI_API_KEY = "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"  # Add your OpenAI API key if you have one
+OPENAI_API_KEY = ""  # Add your OpenAI API key if you have one
 WEATHER_API_KEY = ""  # Add your weather API key if you have one
 
 # Keep this file private and don't commit to version control!
