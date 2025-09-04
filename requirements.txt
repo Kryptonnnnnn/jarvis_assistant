@@ -12,3 +12,7 @@ pyautogui
 nltk
 fuzzywuzzy
 python-levenshtein
+flask
+flask-socketio
+pywebview
+Pillow

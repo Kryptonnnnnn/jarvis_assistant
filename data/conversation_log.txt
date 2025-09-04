@@ -1,0 +1,2 @@
+USER: system status
+ASSISTANT: System Status: CPU usage is 17.9%, Memory usage is 86.0%, Disk usage is 72.7%

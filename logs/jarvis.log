@@ -17,3 +17,113 @@
 2025-09-02 16:44:10,715 - JARVIS - INFO - JARVIS started successfully
 2025-09-02 16:44:23,921 - JARVIS - INFO - Wake word detected: jarvis in 'jarvis'
 2025-09-02 16:47:18,535 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-03 10:56:38,435 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-03 10:56:41,450 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-03 10:56:41,450 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-03 10:56:42,595 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-03 10:56:49,559 - JARVIS - INFO - JARVIS started successfully
+2025-09-03 10:57:11,293 - JARVIS - INFO - Wake word detected: jarvis in 'hey jarvis'
+2025-09-03 10:57:35,585 - JARVIS - INFO - Wake word detected: jarvis in 'jarvis open spotify punjabi song'
+2025-09-03 10:59:58,435 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-03 12:05:59,543 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-03 12:06:02,446 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-03 12:06:02,446 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-03 12:06:03,509 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-03 12:06:10,454 - JARVIS - INFO - JARVIS started successfully
+2025-09-03 12:06:40,303 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-03 16:11:36,041 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-03 16:11:39,597 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-03 16:11:39,597 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-03 16:11:40,700 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-03 16:11:47,543 - JARVIS - INFO - JARVIS started successfully
+2025-09-03 16:12:00,939 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-04 11:29:22,101 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 11:29:25,145 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 11:29:25,146 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 11:29:26,010 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 11:29:54,256 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 11:29:57,005 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 11:29:57,006 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 11:29:57,334 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 11:30:29,729 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 11:30:32,447 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 11:30:32,448 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 11:30:32,784 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 11:31:33,256 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 11:31:36,011 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 11:31:36,012 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 11:31:36,392 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 11:35:29,194 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 11:35:32,006 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 11:35:32,007 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 11:35:32,359 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 11:35:39,169 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5555
+2025-09-04 11:35:39,170 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 11:35:41,479 - JARVIS - INFO - [SYSTEM] JARVIS GUI initialized
+2025-09-04 11:35:41,889 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:35:41] "GET / HTTP/1.1" 200 -
+2025-09-04 11:35:42,248 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:35:42] "GET /socket.io/?EIO=4&transport=polling&t=PaJLBFT HTTP/1.1" 200 -
+2025-09-04 11:35:42,327 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:35:42] "GET /socket.io/?EIO=4&transport=polling&t=PaJLBGa&sid=aeaPBteYG9YCZiNVAAAA HTTP/1.1" 200 -
+2025-09-04 11:35:42,438 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:35:42] "POST /socket.io/?EIO=4&transport=polling&t=PaJLBGR&sid=aeaPBteYG9YCZiNVAAAA HTTP/1.1" 200 -
+2025-09-04 11:35:42,816 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:35:42] "GET /socket.io/?EIO=4&transport=polling&t=PaJLBOF&sid=aeaPBteYG9YCZiNVAAAA HTTP/1.1" 200 -
+2025-09-04 11:35:42,947 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:35:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-04 11:35:48,632 - JARVIS - INFO - JARVIS started successfully
+2025-09-04 11:35:48,635 - JARVIS - INFO - [SYSTEM] JARVIS started successfully
+2025-09-04 11:36:05,917 - JARVIS - INFO - [TEXT_COMMAND] Text command: system status
+2025-09-04 11:36:06,999 - JARVIS - INFO - [TEXT_RESPONSE] Response: System Status: CPU usage is 17.9%, Memory usage is 86.0%, Disk usage is 72.7%
+2025-09-04 11:36:18,906 - JARVIS - INFO - [GUI_CONTROL] Voice recognition enabled
+2025-09-04 11:36:57,292 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-04 11:36:57,293 - JARVIS - INFO - [SYSTEM] JARVIS shutdown completed
+2025-09-04 11:42:41,600 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 11:42:44,678 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 11:42:44,680 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 11:42:45,053 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 11:42:46,776 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5555
+2025-09-04 11:42:46,777 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 11:42:48,997 - JARVIS - INFO - [SYSTEM] JARVIS GUI initialized
+2025-09-04 11:42:49,463 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:42:49] "GET / HTTP/1.1" 200 -
+2025-09-04 11:42:49,687 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:42:49] "GET /socket.io/?EIO=4&transport=polling&t=PaJMpc5 HTTP/1.1" 200 -
+2025-09-04 11:42:49,798 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:42:49] "GET /socket.io/?EIO=4&transport=polling&t=PaJMpde&sid=6Klnr1hTll3ktv2ZAAAA HTTP/1.1" 200 -
+2025-09-04 11:42:49,906 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:42:49] "POST /socket.io/?EIO=4&transport=polling&t=PaJMpdY&sid=6Klnr1hTll3ktv2ZAAAA HTTP/1.1" 200 -
+2025-09-04 11:42:50,289 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 11:42:50] "GET /socket.io/?EIO=4&transport=polling&t=PaJMplh&sid=6Klnr1hTll3ktv2ZAAAA HTTP/1.1" 200 -
+2025-09-04 11:42:56,061 - JARVIS - INFO - JARVIS started successfully
+2025-09-04 11:42:56,062 - JARVIS - INFO - [SYSTEM] JARVIS started successfully
+2025-09-04 11:43:07,728 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-04 11:43:07,729 - JARVIS - INFO - [SYSTEM] JARVIS shutdown completed
+2025-09-04 12:00:29,605 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 12:00:32,541 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 12:00:32,543 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 12:00:33,020 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 12:00:35,153 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5555
+2025-09-04 12:00:35,163 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 12:00:37,367 - JARVIS - INFO - [SYSTEM] JARVIS GUI initialized
+2025-09-04 12:00:37,710 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 12:00:37] "GET / HTTP/1.1" 200 -
+2025-09-04 12:00:37,927 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 12:00:37] "GET /socket.io/?EIO=4&transport=polling&t=PaJQuPO HTTP/1.1" 200 -
+2025-09-04 12:00:38,033 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 12:00:38] "GET /socket.io/?EIO=4&transport=polling&t=PaJQuQp&sid=s4qZ0073Zu2V2rWIAAAA HTTP/1.1" 200 -
+2025-09-04 12:00:38,151 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 12:00:38] "POST /socket.io/?EIO=4&transport=polling&t=PaJQuQl&sid=s4qZ0073Zu2V2rWIAAAA HTTP/1.1" 200 -
+2025-09-04 12:00:38,529 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 12:00:38] "GET /socket.io/?EIO=4&transport=polling&t=PaJQuYt&sid=s4qZ0073Zu2V2rWIAAAA HTTP/1.1" 200 -
+2025-09-04 12:00:44,745 - JARVIS - INFO - JARVIS started successfully
+2025-09-04 12:00:44,746 - JARVIS - INFO - [SYSTEM] JARVIS started successfully
+2025-09-04 12:00:53,127 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 12:00:53] "GET /socket.io/?EIO=4&transport=websocket&sid=s4qZ0073Zu2V2rWIAAAA HTTP/1.1" 200 -
+2025-09-04 12:00:57,947 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-04 12:00:57,948 - JARVIS - INFO - [SYSTEM] JARVIS shutdown completed
+2025-09-04 12:05:46,775 - JARVIS - INFO - Starting JARVIS Assistant...
+2025-09-04 12:05:49,508 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ns789\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-04 12:05:49,510 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\ns789\AppData\Local\Programs\Python\Python38\lib\site-packages\comtypes\gen'
+2025-09-04 12:05:49,866 - JARVIS - INFO - JARVIS initialized successfully
+2025-09-04 12:05:53,322 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5555
+2025-09-04 12:05:53,326 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-04 12:05:55,501 - JARVIS - INFO - [SYSTEM] JARVIS GUI initialized
+2025-09-04 12:05:55,920 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 12:05:55] "GET / HTTP/1.1" 200 -
+2025-09-04 12:06:02,613 - JARVIS - INFO - JARVIS started successfully
+2025-09-04 12:06:02,614 - JARVIS - INFO - [SYSTEM] JARVIS started successfully
+2025-09-04 12:06:58,176 - JARVIS - INFO - Wake word detected: jarvis in 'jarvis'
+2025-09-04 12:06:58,177 - JARVIS - INFO - [WAKE] Wake word detected - JARVIS activated
+2025-09-04 12:06:58,569 - JARVIS - INFO - [LISTENING] Listening for command...
+2025-09-04 12:07:04,273 - JARVIS - INFO - [TIMEOUT] No command heard - timeout
+2025-09-04 12:07:04,275 - JARVIS - INFO - [READY] Ready for next wake word
+2025-09-04 12:07:10,224 - JARVIS - INFO - JARVIS shutdown completed
+2025-09-04 12:07:10,225 - JARVIS - INFO - [SYSTEM] JARVIS shutdown completed
